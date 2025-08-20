@@ -27,9 +27,14 @@ This project is built to practice:
 - ANSI escape codes for terminal colors
 
 ---
+![Shell Screenshot](cshell.png)
+
 
 ## 🚀 Compilation & Usage
 Compile all source files together:
 
 ```bash
 gcc cshell.c history.c colors.c -o cshell
+
+
+
