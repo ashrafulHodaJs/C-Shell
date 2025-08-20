@@ -1,0 +1,3 @@
+3743 | whoami | 0
+3744 | ifconfig | 0
+3745 | clear | 0
